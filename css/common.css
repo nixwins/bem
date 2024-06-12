@@ -1,0 +1,40 @@
+body {
+  font-family: "ROboto";
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 0;
+  min-width: 164px;
+  max-width: 280px;
+  border-radius: 26px;
+  font-size: 20px;
+  width: max-content;
+}
+
+.link--purple {
+  background-color: #9033f9;
+}
+
+.link--green {
+  background-color: var(--color-green);
+}
+
+.title {
+  font-size: 36px;
+  font-weight: 500;
+}
+
+.title--blue {
+  color: #29aae3;
+}
+
+.title--purple {
+  color: #9033f9;
+}
+
+.text--purple {
+  color: #9033f9;
+}

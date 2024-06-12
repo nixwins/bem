@@ -1,0 +1,10 @@
+@import url("./vars.css");
+@import url("./common.css");
+
+.team__link {
+  margin-top: 20px;
+}
+
+.header__link {
+  margin-bottom: 26px;
+}
